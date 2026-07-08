@@ -10,7 +10,7 @@ I'm a Python Developer and aspiring AI Engineer passionate about building intell
 * 📊 Exploring Data Analytics and Data Visualization
 * 🌱 Learning Generative AI, LLMs, and RAG applications
 * 🛠️ Developing real-world Python applications
-* 🚀 Contributing to open-source and improving problem-solving skills
+  
 
 ---
 
